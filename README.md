@@ -38,3 +38,6 @@ All the essentials. None of the extras. Takes a lot of cues from the Angular [qu
 ## More Production Ready Setup
 
 - Use the [Angular CLI](https://cli.angular.io/)
+
+## Thanks
+- Thanks to the person I cloned this repo from so that I didn't have to set this up myself. 
