@@ -1,7 +1,7 @@
-import { Component } from '@angular/core';
+import { Component } from "@angular/core";
 
 @Component({
-  selector: 'my-app',
+  selector: "my-app",
   styles: [`
     
   `],
@@ -10,8 +10,8 @@ import { Component } from '@angular/core';
       <h1>The App Lives!</h1>
       <p>{{ message }}</p>
     </div>
-  `
+  `,
 })
 export class AppComponent {
-  message = 'This is the sample message.';
+  public message = "This is the sample message.";
 }
